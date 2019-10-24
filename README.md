@@ -1,5 +1,5 @@
 # CrazyBird with Sprite Kit
-![](https://static.chief.io/media/products/firebase_logo.png)
+![](http://www.publishwithprasen.com/wp-content/uploads/2017/08/angry-bird-1.png)
 ###### This project is a simple clone of angry bird mobile game. In this project, I used the Sprite Kit library developed by Apple for developers
 
 - Design with code
